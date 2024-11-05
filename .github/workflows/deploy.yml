@@ -12,8 +12,8 @@ jobs:
   test:
     env:
       MONGODB_CLUSTER_ADDRESS: "cluster0.2mn8v.mongodb.net"
-      MONGODB_USERNAME: "abdullahmehboob2002"
-      MONGODB_PASSWORD: "MpjWGQwV3vH6yKKi"
+      MONGODB_USERNAME: "abcd_user"
+      MONGODB_PASSWORD: "abcd_user"
     environment: testing
     runs-on: ubuntu-latest
     steps:
